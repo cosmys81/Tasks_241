@@ -25,10 +25,8 @@ cd ~/tests && ls
 ```
 ```output
 Machine Learning Course
-enMachine Learning Course
 env
 new_name_for_file.txt
-v
 ```
 
 
@@ -231,8 +229,8 @@ echo "Hello, World!" > ~/tests/file.txt && cd ~/tests && ls && cat ~/tests/file.
 Machine Learning Course
 alpha
 env
-file.txHello, World!
-t
+file.txt
+Hello, World!
 ```
 
 
@@ -248,10 +246,8 @@ mv файл.txt другая_директория/
 pwd && mv ~/tests/file.txt ~/tests/alpha/ && cd ~/tests/alpha/ && ls
 ```
 ```output
-/home/cudofile.txt
 /home/cudok
 file.txt
-k
 ```
 
 ## 7.  **Скопировать файл из одной директории в другую**
@@ -268,11 +264,8 @@ cp ~/tests/alpha/file.txt ~/tests && cd ~/tests && ls
 ```output
 Machine Learning Course
 alpha
-enMachine Learning Course
-alpha
 env
 file.txt
-v
 ```
 
 ## 8. **Переименовать файл**
@@ -316,12 +309,12 @@ diff ~/tests/new_name_for_file.txt ~/package.json
 
 ## 10. **Отсортировать содержимое файла**
 
-- По возрастанию:
+- **По возрастанию:**
 ```bash
 sort файл.txt
 ```
 
-- По убыванию:
+- **По убыванию:**
 ```bash
 sort -r файл.txt
 ```
@@ -350,8 +343,8 @@ rm -rf *
 cd ~/tests/alpha && ls && rm -rf ~/tests/alpha && cd ~/tests && ls
 ```
 ```output
-file.txMachine Learning Course
+file.txt
+Machine Learning Course
 env
 new_name_for_file.txt
-t
 ```
