@@ -90,7 +90,7 @@ active
 
 ## **6. Верните обратно.**
 <div style="text-align: center;">
-  <img src="5-Systemd/Pasted%20image%2020241204213936.png" alt="Screenshot #2" />
+  <img src="https://github.com/cosmys81/Tasks_241/blob/30dbda36014fe08a4abc4a3b878140351e6ec164/5-Systemd/Pasted%20image%2020241204213936.png" alt="Screenshot #2" />
 </div>
 
 ## **7. Что такое таймеры?**
