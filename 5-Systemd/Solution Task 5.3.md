@@ -29,7 +29,8 @@ b
 
 Читаем логи systemd:
 ```bash
-str
+sudo strings /var/log/journal/c97b1fa3e1774360ab3a0bf70ca62eeb/system.journal
+```
 ```output
 LPKSHHRH
 PRIORITY=6
