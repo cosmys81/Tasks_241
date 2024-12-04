@@ -84,7 +84,7 @@ active
 ```
 
 ## **5. Удалите из автозагрузки.**
-![Screenshot](5-Systemd/Pasted%20image%2020241204213752.png)
+[![Screenshot](5-Systemd/Pasted%20image%2020241204213752.png)](https://raw.githubusercontent.com/cosmys81/Tasks_241/master/5-Systemd/Pasted%20image%2020241204213752.png)
 
 ## **6. Верните обратно.**
 ![Screenshot](5-Systemd/Pasted%20image%2020241204213936.png)
