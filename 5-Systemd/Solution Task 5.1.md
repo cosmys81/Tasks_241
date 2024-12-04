@@ -85,7 +85,7 @@ active
 
 ## **5. Удалите из автозагрузки.**
 <div style="text-align: center;">
-  <img src="5-Systemd/Pasted%20image%2020241204213752.png" alt="Screenshot #1" />
+  <img src="5-Systemd/Pasted image 20241204213752.png" alt="Screenshot #1" />
 </div>
 
 ## **6. Верните обратно.**
