@@ -84,10 +84,14 @@ active
 ```
 
 ## **5. Удалите из автозагрузки.**
-[![Screenshot](5-Systemd/Pasted%20image%2020241204213752.png)](https://raw.githubusercontent.com/cosmys81/Tasks_241/master/5-Systemd/Pasted%20image%2020241204213752.png)
+<div style="text-align: center;">
+  <img src="5-Systemd\Pasted%20image%2020241204213752.png" alt="Screenshot #1" />
+</div>
 
 ## **6. Верните обратно.**
-![Screenshot](5-Systemd/Pasted%20image%2020241204213936.png)
+<div style="text-align: center;">
+  <img src="5-Systemd/Pasted%20image%2020241204213936.png" alt="Screenshot #2" />
+</div>
 
 ## **7. Что такое таймеры?**
 **Таймеры** — механизмы, позволяющие автоматически запускать службы или задачи через заданные интервалы времени или в ответ на определённые события. Обычно определяются в файлах с расширением `.timer`, которые связаны с конкретными сервисами. Каждый таймер ссылается на соответствующую службу, которую нужно запускать в определённое время или интервал.
