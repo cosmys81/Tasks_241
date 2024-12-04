@@ -1,12 +1,18 @@
 ## **1. Посмотрите журналы ssh**
-![[Pasted image 20241204231705.png]]
+<div style="text-align: center;">
+  <img src="https://github.com/cosmys81/Tasks_241/blob/08c8010279b41818655dca5e186a0835c34dec59/5-Systemd/Pasted%20image%2020241204231705.png" alt="Screenshot 1"/>
+</div>
 
 ## **2. Выведите журналы в реальном времени**
-![[Pasted image 20241204231740.png]]
+<div style="text-align: center;">
+  <img src="https://github.com/cosmys81/Tasks_241/blob/08c8010279b41818655dca5e186a0835c34dec59/5-Systemd/Pasted%20image%2020241204231740.png"  alt="Screenshot 2"/>
+</div>
 
 
 ## **3. Выведите лог в реальном времени для службы sshd**
-![[Pasted image 20241204231910.png]]
+<div style="text-align: center;">
+  <img src="https://github.com/cosmys81/Tasks_241/blob/08c8010279b41818655dca5e186a0835c34dec59/5-Systemd/Pasted%20image%2020241204231910.png" alt="Screenshot 3"/>
+</div>
 
 ## **4. Можно ли без команды journalctl прочитать логи systemd?**
 Да, можно. Наверняка для этого есть специализированные пакеты, однако я нашёл такой способ.
