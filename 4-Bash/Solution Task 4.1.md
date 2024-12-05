@@ -46,7 +46,6 @@ echo "-----"
 /etc
 -----
 /home/cudok
-/home/cudok
 -----
 total 12K
 drwxr-xr-x  5 cudok cudok 4.0K Dec  5 19:38 Заметки от cudok
