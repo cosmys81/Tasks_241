@@ -47,29 +47,6 @@ echo "-----"
 -----
 /home/cudok
 /home/cudok
-----total 12K
-drwxr-xr-x  5 cudok cudok 4.0K Dec  5 19:38 Заметки от cudok
-drwxrwxr-x  3 cudok cudok 4.0K Dec  5 20:05 .
-drwxr-x--- 50 cudok cudok 4.0K Dec  5 19:59 ..
------
-alpha
-Заметки от cudok
------
-Hello, World!
------
-alpha
-text
-Заметки от cudok
------
-VPN-was-dieddddd
-alpha
-Заметки от cudok
------
-Заметки от cudok
-/etc
------
-/home/cudok
-/home/cudok
 -----
 total 12K
 drwxr-xr-x  5 cudok cudok 4.0K Dec  5 19:38 Заметки от cudok
@@ -91,7 +68,6 @@ alpha
 -----
 Заметки от cudok
 -----
--
 ```
 
 
