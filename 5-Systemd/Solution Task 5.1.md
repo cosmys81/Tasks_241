@@ -52,7 +52,7 @@ Dec 04 21:42:30 syscudo systemd[1]: Started redis-server.service - Advanced key-
 #### **Статус юнита:**
 - **`Loaded: loaded`**  
     Юнит загружен. Путь к файлу юнита: `/usr/lib/systemd/system/redis-server.service`.  
-    Указано, что автозапуск включен (`enabled`) и preset тоже разрешает запуск.
+    Указано, что автозапуск и preset включены (`enabled`).
     
 - **`Active: active (running)`**  
     Служба работает в данный момент.
