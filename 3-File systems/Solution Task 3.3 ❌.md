@@ -158,3 +158,15 @@ sudo reboot
 ```bash
 df -h
 ```
+
+Вывод:
+
+```bash
+Файловая система Размер Использовано  Дост Использовано% Cмонтировано в
+udevfs             5,0M            0  5,0M            0% /dev
+runfs              5,8G         1,5M  5,8G            1% /run
+/dev/sda2          238G          54G  182G           23% /
+tmpfs              5,8G            0  5,8G            0% /dev/shm
+/dev/sda2          238G          54G  182G           23% /home
+/dev/sda3          5,6M          14K  5,1M            1% /mnt/disk
+```
