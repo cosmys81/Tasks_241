@@ -127,7 +127,7 @@ traceroute vk.com 2>/dev/null # Перенаправление потока ош
 ## **8. Как отправить весь вывод команды в пустоту?**
 
 ```bash
-ping google.com > /dev/null
+ping google.com &> /dev/null
 ```
 
 где `/dev/null` — пустота/чёрная дыра.
